@@ -2,7 +2,7 @@
 * Dairo Javier Rodriguez - 1151358
 
 ## 📚 ASCII RACING
-Juego en consola donde el jugador controle un "auto" que se desplaza por un "carril" y evita obstáculos que vienen en descenso.
+Juego en consola donde el jugador controla un "auto" que se desplaza por un "carril" y evita obstáculos que vienen en descenso.
 
 ### 🧰 Requisitos Técnicos
 * Ensamblador: [GUI Turbo Assembler 5.x](https://sourceforge.net/projects/guitasm8086/)
