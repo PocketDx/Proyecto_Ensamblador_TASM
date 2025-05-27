@@ -1,7 +1,7 @@
 ;============================================================
 ; ASCII RACING - Juego de carreras en consola usando TASM
 ; Plataforma: DOS 16-bit (usar con DOSBox)
-; Autor: Dairo - Ensamblador educativo
+; Autor: Dairo - V 1.0
 ;============================================================
 
 .model small
